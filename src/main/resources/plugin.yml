@@ -1,0 +1,7 @@
+main: me.dkim19375.vaultbaltop.VaultBaltop
+name: VaultBaltop
+version: ${pluginVersion}
+description: Vault Baltop
+author: dkim19375
+api-version: 1.13
+depend: [Vault]
